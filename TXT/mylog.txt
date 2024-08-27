@@ -1,5 +1,4 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-ZCZC W00 15 L03 Github related
-ZCZC W00 30 L09 Complete Assignment #1 #2 #3 and #4
+ZCZC W00 45 L09 Complete Assignment #1 #2 #3 and #4
