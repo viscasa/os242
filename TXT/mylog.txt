@@ -1,6 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W00 50 L15 Reading attached slides and documents
 ZCZC W00 20 L05 Complete 1st quiz
 ZCZC W00 100 L02 Attend 2nd class
 ZCZC W00 100 L02 Attend 1st class
