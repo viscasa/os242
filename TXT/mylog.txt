@@ -1,6 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W02 90 L05 Complete POPQUIZ W02
+ZCZC W02 15 L17 Complete Assignment #07
+ZCZC W02 10 L16 Complete Assignment #06
+ZCZC W02 10 L15 Complete Assignment #05
+ZCZC W02 10 L14 Complete Assignment #04
+ZCZC W02 5 L13 Complete Assignment #03
+ZCZC W02 15 L12 Complete Assignment #02
+ZCZC W02 30 L11 Complete Assignment #01
+ZCZC W02 100 L02 Attend 6th class
+ZCZC W02 100 L02 Attend 5th class
 ZCZC W01 15 L04 Beautify github pages
 ZCZC W01 5 L15 Complete Assignment #05
 ZCZC W01 15 L14 Complete Assignment #04
