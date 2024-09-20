@@ -11,3 +11,7 @@ permalink: LINKS/
 2. [Introduction SSH](https://www.niagahoster.co.id/blog/apa-itu-ssh/) -> This article explains the introduction about SSH, what is SSH, and how it works. SSH is a protocol that can be used to connect 2 computer devices. SSH works by encryption the data that has been sent from the computer devices.
 3. [Compile C Program With GCC Compiler on Bash](https://developerinsider.co/compile-c-program-with-gcc-compiler-on-bash-on-ubuntu-on-windows-10/) -> A step-through guide on how to write a C program (using nano) and compile it using GCC. It’s important to know the prerequisite to compile a C program and how to manipulate it using the available tools (nano, vim)
 
+## WEEK 03
+1. [Introduction to Makefiles](https://www.youtube.com/watch?v=_r7i5X0rXJk) -> How to create a simple `Makefile`.
+2. [Memory Management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/) -> Explains what Main Memory, Memory Management, Memory Allocation, etc. are.
+3. [What’s a Disk Partition?](https://www.youtube.com/watch?v=udDkSdKLFGk&ab_channel=AskLeo!) -> Explains what a Partition is, what the difference is with a volume, dividing and backing up partitions.
