@@ -1,6 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W03 90 L32 Watching YouTube video about how to make 'Makefile', copy file, etc.
 ZCZC W03 50 L05 Complete POPQUIZ W03
 ZCZC W03 30 L15 Complete Assignment #05
 ZCZC W03 50 L14 Complete Assignment #04
