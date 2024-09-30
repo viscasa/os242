@@ -15,3 +15,9 @@ permalink: LINKS/
 1. [Introduction to Makefiles](https://www.youtube.com/watch?v=_r7i5X0rXJk) -> How to create a simple `Makefile`.
 2. [Memory Management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/) -> Explains what Main Memory, Memory Management, Memory Allocation, etc. are.
 3. [What’s a Disk Partition?](https://www.youtube.com/watch?v=udDkSdKLFGk&ab_channel=AskLeo!) -> Explains what a Partition is, what the difference is with a volume, dividing and backing up partitions.
+
+## WEEK 04
+1. [scp Command]([https://www.youtube.com/watch?v=_r7i5X0rXJk](https://www.youtube.com/watch?v=2GcWI5KzN2k)) -> Explains how to transfer file with scp command.
+2. [Big Endian & Little Endian](https://www.youtube.com/watch?v=jhErugDB-34) -> Explains about Big Endian & Little Endian.
+3. [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/) -> Explanation of one of the memory management, namely paging.
+
