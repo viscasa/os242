@@ -1,6 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+
+ZCZC W05 85 L05 Complete POPQUIZ W05
+ZCZC W05 60 L32 Watching YouTube video tutorial for this week
+ZCZC W05 20 L15 Complete Assignment #05
+ZCZC W05 10 L14 Complete Assignment #04
+ZCZC W05 25 L13 Complete Assignment #03
+ZCZC W05 10 L12 Complete Assignment #02
+ZCZC W05 50 L11 Complete Assignment #01
+ZCZC W05 100 L02 Attend 11th class
+ZCZC W05 100 L02 Attend 10th class
 ZCZC W04 100 L02 Attend 9th class
 ZCZC W04 70 L05 Complete POPQUIZ W04
 ZCZC W04 70 L32 Watching YouTube video about scp, cp, etc.
