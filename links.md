@@ -17,7 +17,12 @@ permalink: LINKS/
 3. [What’s a Disk Partition?](https://www.youtube.com/watch?v=udDkSdKLFGk&ab_channel=AskLeo!) -> Explains what a Partition is, what the difference is with a volume, dividing and backing up partitions.
 
 ## WEEK 04
-1. [scp Command]([https://www.youtube.com/watch?v=_r7i5X0rXJk](https://www.youtube.com/watch?v=2GcWI5KzN2k)) -> Explains how to transfer file with scp command.
+1. [scp Command](https://www.youtube.com/watch?v=2GcWI5KzN2k) -> Explains how to transfer files with scp command.
 2. [Big Endian & Little Endian](https://www.youtube.com/watch?v=jhErugDB-34) -> Explains about Big Endian & Little Endian.
 3. [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/) -> Explanation of one of the memory management, namely paging.
+
+## WEEK 05
+1. [Virtual Memory](https://www.makeuseof.com/virtual-memory-on-linux/#:~:text=Virtual%20memory%20is%20a%20way,the%20kernel%20and%20hardware%20levels.) -> Provides a complete explanation of virtual memory
+2. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) -> Explanation of page replacement
+3. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) -> This website explains memory allocations and management in operating systems. It is interesting because it uses a lot of illustrations and tables.
 
