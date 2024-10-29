@@ -26,3 +26,8 @@ permalink: LINKS/
 2. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) -> Explanation of page replacement
 3. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) -> This website explains memory allocations and management in operating systems. It is interesting because it uses a lot of illustrations and tables.
 
+## WEEK 06
+1. [States of a Process in Operating Systems](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/) -> Explanation of state process from geeksforgeeks which I think is quite clear.
+2. [Multi Threading Models in Process Management](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/) -> Explanation of multi threading models from the same web.
+3. [fork() & exec()](https://www.youtube.com/watch?feature=shared&v=IFEFVXvjiHY) -> A video explaining fork() and exec() in system calls.
+
