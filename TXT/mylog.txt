@@ -2,6 +2,14 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W07 80 L06 Reading the slides and googling about the material for this week
+ZCZC W07 90 L05 Complete POPQUIZ W07
+ZCZC W07 20 L14 Complete Assignment #04
+ZCZC W07 20 L13 Complete Assignment #03
+ZCZC W07 5 L12 Complete Assignment #02
+ZCZC W07 10 L11 Complete Assignment #01
+ZCZC W07 100 L02 Attend 15th class
+ZCZC W07 100 L02 Attend 14th class
 ZCZC W06 60 L06 Reading the slides and googling about the material for this week
 ZCZC W06 120 L05 Complete POPQUIZ W06
 ZCZC W06 20 L15 Complete Assignment #05
