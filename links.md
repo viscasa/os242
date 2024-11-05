@@ -31,3 +31,7 @@ permalink: LINKS/
 2. [Multi Threading Models in Process Management](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/) -> Explanation of multi threading models from the same web.
 3. [fork() & exec()](https://www.youtube.com/watch?feature=shared&v=IFEFVXvjiHY) -> A video explaining fork() and exec() in system calls.
 
+## WEEK 07
+1. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) -> Explanation of semaphores in the synchronization process.
+2. [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) -> Explanation of the difference between deadlock and starvation.
+3. [The Dining Philosophers Problem](https://www.youtube.com/watch?v=FYUi-u7UWgw) -> Explanation of the classic problem of synchronization, namely the dining philosophers problem.
