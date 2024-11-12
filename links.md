@@ -35,3 +35,8 @@ permalink: LINKS/
 1. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) -> Explanation of semaphores in the synchronization process.
 2. [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/) -> Explanation of the difference between deadlock and starvation.
 3. [The Dining Philosophers Problem](https://www.youtube.com/watch?v=FYUi-u7UWgw) -> Explanation of the classic problem of synchronization, namely the dining philosophers problem.
+
+## WEEK 08
+1. [LFS 12.0 Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) -> Video playlist about Linux From Scratch installation
+2. [LFS Book for VirtualBox](https://www.linuxfromscratch.org/lfs/view/12.0/) -> Explanation of LFS with VirtualBox
+3. [LFS Book for UTM](https://www.linuxfromscratch.org/~xry111/lfs/view/arm64/) -> Explanation of LFS with UTM
